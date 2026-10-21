@@ -1,0 +1,33 @@
+​1. Overview & Core Commitment
+​Welcome to IG FOLLOW CHECKER ("we," "our," or "the application"). Your privacy is paramount to us.
+​The most important thing to know:
+IG FOLLOW CHECKER is designed as a 100% client-side, local application. All processing, comparing, parsing, and analyzing of your Instagram follower and following data happens directly inside your device's web browser. None of your data, files, usernames, or account information are ever sent to, stored on, or processed by external servers or third-party databases.
+​2. Information We Do NOT Collect
+​Because this tool executes entirely within your browser environment:
+​No Instagram Login Credentials: The tool never asks for, requires, or handles your Instagram passwords, tokens, cookies, or two-factor authentication codes.
+​No File Uploads to Remote Servers: When you drag, drop, or select files (followers.html, following.html, .txt, .csv, etc.), they are read locally into your browser's memory using standard browser APIs (FileReader). They are not transmitted over the internet.
+​No Personal Identifiable Information (PII): We do not collect names, phone numbers, email addresses, or IP addresses.
+​No Account Scraping: We do not scrape, query, or execute automated API calls against Instagram or Meta platforms on your behalf.
+​3. Information Handled Locally on Your Device
+​The application temporarily processes the following data exclusively in your device's volatile memory (RAM) while the page is open:
+​Text Content & Usernames: Extracted usernames and handles from files or text pasted into the application.
+​Comparison Metrics: Calculated numbers (mutual connections, missing accounts, and mismatch rates) displayed on your dashboard.
+​Session Preferences: Optional UI settings (such as light or dark display mode) which may be stored in your browser's local storage (localStorage) purely for user interface convenience.
+​Note: All extracted list data is discarded as soon as you refresh, close the browser tab, or click the "Clear All" button.
+​4. Third-Party Links & External Services
+​Instagram Profile Links: The application may generate convenience links (https://instagram.com/username) allowing you to manually inspect profiles in a separate tab. When you click these links, you leave our application and interact directly with Instagram/Meta Platforms, Inc., which is governed by Instagram's Data Policy.
+​External Web Fonts: The application links to standard web fonts (such as Google Fonts) to render text styling. Third-party font delivery networks may receive standard HTTP header requests (such as your browser's user agent and IP address) as part of serving font files.
+​5. Security of Your Data
+​Because no data leaves your local machine, your data is as secure as the device and browser you use to run the application. We recommend:
+​Keeping your operating system and web browser updated.
+​Avoiding using public or shared computers when reviewing sensitive export archives.
+​Clearing your clipboard after copying sensitive usernames if working on a shared terminal.
+​6. Children's Online Privacy Protection
+​IG FOLLOW CHECKER does not knowingly collect or solicit information from anyone under the age of 13. Since no personal data is collected or transmitted to any server, the application operates in full respect of minor privacy standards globally.
+​7. Updates to This Policy
+​We may update this Privacy Policy from time to time to reflect functional adjustments or legal standards. Any revisions will be reflected by the "Last Updated" date at the top of this document. Continued use of the application signifies your understanding and agreement with the active policy.
+​8. Contact & Developer Attribution
+​If you have questions, feedback, or inquiries regarding this Privacy Policy or the tool's functionality, please reach out to:
+​Developer: HITOKIRI X
+​Project: IG Follow Checker
+​Copyright: © 2026 IG Follow Checker. All rights reserved.
